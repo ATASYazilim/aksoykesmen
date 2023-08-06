@@ -1,0 +1,22 @@
+{
+    "about_us" : {
+        "admin_name" : "John Copper",
+        "admin_designation" : "Senior Lawyer",
+        "admin_sign" : "/assets/img/sign.png",
+        "features" : [
+            {
+                "id" : "1",
+                "icon" : "/assets/img/icon/balance.png",
+                "title" : "We Committed in Law",
+                "short_description" : "Lorem ipsum dolor sit amet, consectetur adipisicing."
+            },
+
+            {
+                "id" : "2",
+                "icon" : "/assets/img/icon/hammer.png",
+                "title" : "We Fight for Justice",
+                "short_description" : "Lorem ipsum dolor sit amet, consectetur adipisicing."
+            }
+        ]
+    }
+}

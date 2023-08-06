@@ -1,0 +1,420 @@
+
+{
+    "attorneys" : [
+        {
+            "id" : "1",
+            "name" : "James Cameron",
+            "designation" : "Sr. Lawyer",
+            "image" : "/assets/img/team/1.jpg",
+            "social_link" : {
+                "facebook" : "",
+                "twitter" : "",
+                "linkedin" : ""
+            },
+            "phone" : "+00 865 567 789",
+            "email" : "james.cameron@live.com",
+            "experience" : "12 years",
+            "address" : "Old Traford, Manchester, UK",
+            "expertise" : [
+                {
+                    "name" : "Family Law"
+                },
+
+                {
+                    "name" : "Insurance Deffence"
+                },
+
+                {
+                    "name" : "Business Litigation"
+                },
+
+                {
+                    "name" : "Employment Law"
+                }
+            ],
+            "age" : "",
+            "languages" : [
+                {
+                    "name" : "French"
+                },
+
+                {
+                    "name" : "English"
+                },
+
+                {
+                    "name" : "Spanish"
+                }
+            ],
+            "personal_experience" : "The purpose of lorem ipsum is to create a natural looking block oftext (sentence, paragraph, page, etc.) that doesn't distract from thelayout. A practice not without controversy, laying out pages withmeaningless filler text can be very useful when the focus is meantto be on design, not content.There are many variations of passages of Lorem Ipsum available. But the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text generators on the Internet tend to repeat.",
+            "total_case" : "133",
+            "total_case_won" : "89",
+            "total_case_dismissed" : "119",
+            "success_rate" : "76"
+        },
+
+        {
+            "id" : "2",
+            "name" : "Mich Thomson",
+            "designation" : "Advocate",
+            "image" : "/assets/img/team/2.jpg",
+            "social_link" : {
+                "facebook" : "",
+                "twitter" : "",
+                "linkedin" : ""
+            },
+            "phone" : "+00 865 567 789",
+            "email" : "mich.thomson@live.com",
+            "experience" : "11 years",
+            "address" : "Old Traford, Manchester, UK",
+            "expertise" : [
+                {
+                    "name" : "Family Law"
+                },
+
+                {
+                    "name" : "Insurance Deffence"
+                },
+
+                {
+                    "name" : "Business Litigation"
+                },
+
+                {
+                    "name" : "Employment Law"
+                }
+            ],
+            "age" : "",
+            "languages" : [
+                {
+                    "name" : "French"
+                },
+
+                {
+                    "name" : "English"
+                },
+
+                {
+                    "name" : "Spanish"
+                }
+            ],
+            "personal_experience" : "The purpose of lorem ipsum is to create a natural looking block oftext (sentence, paragraph, page, etc.) that doesn't distract from thelayout. A practice not without controversy, laying out pages withmeaningless filler text can be very useful when the focus is meantto be on design, not content.There are many variations of passages of Lorem Ipsum available. But the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text generators on the Internet tend to repeat.",
+            "total_case" : "136",
+            "total_case_won" : "86",
+            "total_case_dismissed" : "123",
+            "success_rate" : "73"
+        },
+
+        {
+            "id" : "3",
+            "name" : "Sarah Helena",
+            "designation" : "Associate",
+            "image" : "/assets/img/team/3.jpg",
+            "social_link" : {
+                "facebook" : "",
+                "twitter" : "",
+                "linkedin" : ""
+            },
+            "phone" : "+00 865 567 789",
+            "email" : "sarah.helena@live.com",
+            "experience" : "8 years",
+            "address" : "Old Traford, Manchester, UK",
+            "expertise" : [
+                {
+                    "name" : "Family Law"
+                },
+
+                {
+                    "name" : "Insurance Deffence"
+                },
+
+                {
+                    "name" : "Business Litigation"
+                },
+
+                {
+                    "name" : "Employment Law"
+                }
+            ],
+            "age" : "",
+            "languages" : [
+                {
+                    "name" : "English"
+                },
+
+                {
+                    "name" : "French"
+                },
+
+                {
+                    "name" : "German"
+                }
+            ],
+            "personal_experience" : "The purpose of lorem ipsum is to create a natural looking block oftext (sentence, paragraph, page, etc.) that doesn't distract from thelayout. A practice not without controversy, laying out pages withmeaningless filler text can be very useful when the focus is meantto be on design, not content.There are many variations of passages of Lorem Ipsum available. But the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text generators on the Internet tend to repeat.",
+            "total_case" : "134",
+            "total_case_won" : "88",
+            "total_case_dismissed" : "116",
+            "success_rate" : "85"
+        },
+
+        {
+            "id" : "4",
+            "name" : "Albert Gill",
+            "designation" : "Sr. Partner",
+            "image" : "/assets/img/team/4.jpg",
+            "social_link" : {
+                "facebook" : "",
+                "twitter" : "",
+                "linkedin" : ""
+            },
+            "phone" : "+00 865 567 789",
+            "email" : "albert.gill@live.com",
+            "experience" : "14 years",
+            "address" : "Old Traford, Manchester, UK",
+            "expertise" : [
+                {
+                    "name" : "Family Law"
+                },
+
+                {
+                    "name" : "Insurance Deffence"
+                },
+
+                {
+                    "name" : "Business Litigation"
+                },
+
+                {
+                    "name" : "Employment Law"
+                }
+            ],
+            "age" : "",
+            "languages" : [
+                {
+                    "name" : "English"
+                },
+
+                {
+                    "name" : "German"
+                },
+
+                {
+                    "name" : "Spanish"
+                }
+            ],
+            "personal_experience" : "The purpose of lorem ipsum is to create a natural looking block oftext (sentence, paragraph, page, etc.) that doesn't distract from thelayout. A practice not without controversy, laying out pages withmeaningless filler text can be very useful when the focus is meantto be on design, not content.There are many variations of passages of Lorem Ipsum available. But the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text generators on the Internet tend to repeat.",
+            "total_case" : "142",
+            "total_case_won" : "85",
+            "total_case_dismissed" : "121",
+            "success_rate" : "80"
+        },
+
+        {
+            "id" : "5",
+            "name" : "James Cameron",
+            "designation" : "Sr. Lawyer",
+            "image" : "/assets/img/team/5.jpg",
+            "social_link" : {
+                "facebook" : "",
+                "twitter" : "",
+                "linkedin" : ""
+            },
+            "phone" : "+00 865 567 789",
+            "email" : "james.cameron@live.com",
+            "experience" : "11 years",
+            "address" : "Old Traford, Manchester, UK",
+            "expertise" : [
+                {
+                    "name" : "Family Law"
+                },
+
+                {
+                    "name" : "Insurance Deffence"
+                },
+
+                {
+                    "name" : "Business Litigation"
+                },
+
+                {
+                    "name" : "Employment Law"
+                }
+            ],
+            "age" : "",
+            "languages" : [
+                {
+                    "name" : "French"
+                },
+
+                {
+                    "name" : "English"
+                },
+
+                {
+                    "name" : "Italian"
+                }
+            ],
+            "personal_experience" : "The purpose of lorem ipsum is to create a natural looking block oftext (sentence, paragraph, page, etc.) that doesn't distract from thelayout. A practice not without controversy, laying out pages withmeaningless filler text can be very useful when the focus is meantto be on design, not content.There are many variations of passages of Lorem Ipsum available. But the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text generators on the Internet tend to repeat.",
+            "total_case" : "129",
+            "total_case_won" : "82",
+            "total_case_dismissed" : "108",
+            "success_rate" : "84"
+        },
+
+        {
+            "id" : "6",
+            "name" : "Mich Thomson",
+            "designation" : "Advocate",
+            "image" : "/assets/img/team/6.jpg",
+            "social_link" : {
+                "facebook" : "",
+                "twitter" : "",
+                "linkedin" : ""
+            },
+            "phone" : "+00 865 567 789",
+            "email" : "mich.thomson@live.com",
+            "experience" : "12 years",
+            "address" : "Old Traford, Manchester, UK",
+            "expertise" : [
+                {
+                    "name" : "Family Law"
+                },
+
+                {
+                    "name" : "Insurance Deffence"
+                },
+
+                {
+                    "name" : "Business Litigation"
+                },
+
+                {
+                    "name" : "Employment Law"
+                }
+            ],
+            "age" : "",
+            "languages" : [
+                {
+                    "name" : "German"
+                },
+
+                {
+                    "name" : "English"
+                },
+
+                {
+                    "name" : "Portuguese"
+                }
+            ],
+            "personal_experience" : "The purpose of lorem ipsum is to create a natural looking block oftext (sentence, paragraph, page, etc.) that doesn't distract from thelayout. A practice not without controversy, laying out pages withmeaningless filler text can be very useful when the focus is meantto be on design, not content.There are many variations of passages of Lorem Ipsum available. But the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text generators on the Internet tend to repeat.",
+            "total_case" : "131",
+            "total_case_won" : "79",
+            "total_case_dismissed" : "105",
+            "success_rate" : "77"
+        },
+
+        {
+            "id" : "7",
+            "name" : "Sarah Helena",
+            "designation" : "Associate",
+            "image" : "/assets/img/team/7.jpg",
+            "social_link" : {
+                "facebook" : "",
+                "twitter" : "",
+                "linkedin" : ""
+            },
+            "phone" : "+00 865 567 789",
+            "email" : "sarah.helena@live.com",
+            "experience" : "16 years",
+            "address" : "Old Traford, Manchester, UK",
+            "expertise" : [
+                {
+                    "name" : "Family Law"
+                },
+
+                {
+                    "name" : "Insurance Deffence"
+                },
+
+                {
+                    "name" : "Business Litigation"
+                },
+
+                {
+                    "name" : "Employment Law"
+                }
+            ],
+            "age" : "",
+            "languages" : [
+                {
+                    "name" : "Italian"
+                },
+
+                {
+                    "name" : "English"
+                },
+
+                {
+                    "name" : "German"
+                }
+            ],
+            "personal_experience" : "The purpose of lorem ipsum is to create a natural looking block oftext (sentence, paragraph, page, etc.) that doesn't distract from thelayout. A practice not without controversy, laying out pages withmeaningless filler text can be very useful when the focus is meantto be on design, not content.There are many variations of passages of Lorem Ipsum available. But the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text generators on the Internet tend to repeat.",
+            "total_case" : "137",
+            "total_case_won" : "80",
+            "total_case_dismissed" : "113",
+            "success_rate" : "74"
+        },
+
+        {
+            "id" : "8",
+            "name" : "Albert Gill",
+            "designation" : "Sr. Partner",
+            "image" : "/assets/img/team/8.jpg",
+            "social_link" : {
+                "facebook" : "",
+                "twitter" : "",
+                "linkedin" : ""
+            },
+            "phone" : "+00 865 567 789",
+            "email" : "albert.gill@live.com",
+            "experience" : "10 years",
+            "address" : "Old Traford, Manchester, UK",
+            "expertise" : [
+                {
+                    "name" : "Family Law"
+                },
+
+                {
+                    "name" : "Insurance Deffence"
+                },
+
+                {
+                    "name" : "Business Litigation"
+                },
+
+                {
+                    "name" : "Employment Law"
+                }
+            ],
+            "age" : "",
+            "languages" : [
+                {
+                    "name" : "French"
+                },
+
+                {
+                    "name" : "English"
+                },
+
+                {
+                    "name" : "Spanish"
+                }
+            ],
+            "personal_experience" : "The purpose of lorem ipsum is to create a natural looking block oftext (sentence, paragraph, page, etc.) that doesn't distract from thelayout. A practice not without controversy, laying out pages withmeaningless filler text can be very useful when the focus is meantto be on design, not content.There are many variations of passages of Lorem Ipsum available. But the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text generators on the Internet tend to repeat.",
+            "total_case" : "135",
+            "total_case_won" : "88",
+            "total_case_dismissed" : "115",
+            "success_rate" : "70"
+        }
+    ]
+}

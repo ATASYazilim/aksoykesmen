@@ -1,0 +1,29 @@
+{
+    "categories" : [
+        {
+            "id": "1",
+            "name" : "Legal Service",
+            "count" : "8"
+        },
+        {
+            "id": "2",
+            "name" : "Civil Law",
+            "count" : "6"
+        },
+        {
+            "id": "3",
+            "name" : "Criminal Law",
+            "count" : "4"
+        },
+        {
+            "id": "4",
+            "name" : "Family Law",
+            "count" : "5"
+        },
+        {
+            "id": "5",
+            "name" : "Business Law",
+            "count" : "2"
+        }
+    ]
+} 

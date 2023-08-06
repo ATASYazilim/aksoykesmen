@@ -1,0 +1,26 @@
+[
+	{
+		"id": 0,
+		"team_member_img_url": "/assets/img/home4/experienced_lawyers/laywer_1.png",
+		"member_name": "Nicolas Henry",
+		"member_role": "Business Lawyer"
+	},
+	{
+		"id": 1,
+		"team_member_img_url": "/assets/img/home4/experienced_lawyers/laywer_2.png",
+		"member_name": "Milton Hasan",
+		"member_role": "Managing Partner"
+	},
+	{
+		"id": 2,
+		"team_member_img_url": "/assets/img/home4/experienced_lawyers/laywer_3.png",
+		"member_name": "Abdur Rhoman",
+		"member_role": "Family Lawyer"
+	},
+	{
+		"id": 3,
+		"team_member_img_url": "/assets/img/home4/experienced_lawyers/laywer_4.png",
+		"member_name": "Lyne Clooney",
+		"member_role": "Tax Atorney"
+	}
+]

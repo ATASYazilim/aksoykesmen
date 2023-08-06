@@ -1,0 +1,153 @@
+{
+    "cases" : [
+        {
+            "id" : "1",
+            "title" : "Financial Fraudulence in Central Bank",
+            "short_title" : "Financial Transactions",
+            "category" : "BUSINESS LAW",
+            "advocate" : "James Cameron",
+            "start_date" : "15 June 2021",
+            "end_date" : "03 January 2022",
+            "address" : "San Fransisco",
+            "short_description" : "There are many new variations of available but majority.",
+            "description" : "Fraud and financial crimes are a form of theft/larceny that occur when a person or entity takes money or property, or uses them in an illicit manner, with the intent.The analysis model employed in this study is multiple regression. The results indicate that variable namely, pressure, opportunity, rationalization, competence, and arrogance, simultaneously do not affect fraudulence financial statement.",
+            "overview" : "Cases of fraud were found in Indonesia in 2017 involving PT Jatisari Sri Rejeki. The company is cheating by producing rice that is not suitable with standard quality stated in the packaging label. The correlation of the case against fraudulent financial statements is that there is a difference in the inventory account contained in the financial statements due to changes in the quality of products made by the company.",
+            "tags" : [
+                {"name" : "civil"},
+                {"name" : "criminal"}
+            ],
+            "images" : {
+                "bg_image" : "/assets/img/case/01.jpg",
+                "banner_image" : "/assets/img/case/single-case.jpg",
+                "image_1" : "/assets/img/case/single-case-2.jpg",
+                "image_2" : "/assets/img/case/single-case-3.jpg"
+            }
+
+        },
+
+        {
+            "id" : "2",
+            "title" : "Financial Fraudulence in Central Bank",
+            "short_title" : "Marriage & Divorce",
+            "category" : "FAMILY LAW",
+            "advocate" : "James Cameron",
+            "start_date" : "15 June 2021",
+            "end_date" : "03 January 2022",
+            "address" : "San Fransisco",
+            "short_description" : "There are many new variations of available but majority.",
+            "description" : "Fraud and financial crimes are a form of theft/larceny that occur when a person or entity takes money or property, or uses them in an illicit manner, with the intent.The analysis model employed in this study is multiple regression. The results indicate that variable namely, pressure, opportunity, rationalization, competence, and arrogance, simultaneously do not affect fraudulence financial statement.",
+            "overview" : "Cases of fraud were found in Indonesia in 2017 involving PT Jatisari Sri Rejeki. The company is cheating by producing rice that is not suitable with standard quality stated in the packaging label. The correlation of the case against fraudulent financial statements is that there is a difference in the inventory account contained in the financial statements due to changes in the quality of products made by the company.",
+            "tags" : {
+                "tag_1" : "civil",
+                "tag_2" : "criminal"
+            },
+            "images" : {
+                "bg_image" : "/assets/img/case/02.jpg",
+                "banner_image" : "/assets/img/case/single-case.jpg",
+                "image_1" : "/assets/img/case/single-case-2.jpg",
+                "image_2" : "/assets/img/case/single-case-3.jpg"
+            }
+
+        },
+
+        {
+            "id" : "3",
+            "title" : "Financial Fraudulence in Central Bank",
+            "short_title" : "Personal Injury",
+            "category" : "CRIMINAL LAW",
+            "advocate" : "James Cameron",
+            "start_date" : "15 June 2021",
+            "end_date" : "03 January 2022",
+            "address" : "San Fransisco",
+            "short_description" : "There are many new variations of available but majority.",
+            "description" : "Fraud and financial crimes are a form of theft/larceny that occur when a person or entity takes money or property, or uses them in an illicit manner, with the intent.The analysis model employed in this study is multiple regression. The results indicate that variable namely, pressure, opportunity, rationalization, competence, and arrogance, simultaneously do not affect fraudulence financial statement.",
+            "overview" : "Cases of fraud were found in Indonesia in 2017 involving PT Jatisari Sri Rejeki. The company is cheating by producing rice that is not suitable with standard quality stated in the packaging label. The correlation of the case against fraudulent financial statements is that there is a difference in the inventory account contained in the financial statements due to changes in the quality of products made by the company.",
+            "tags" : {
+                "tag_1" : "civil",
+                "tag_2" : "criminal"
+            },
+            "images" : {
+                "bg_image" : "/assets/img/case/03.jpg",
+                "banner_image" : "/assets/img/case/single-case.jpg",
+                "image_1" : "/assets/img/case/single-case-2.jpg",
+                "image_2" : "/assets/img/case/single-case-3.jpg"
+            }
+
+        },
+        
+        {
+            "id" : "4",
+            "title" : "Financial Fraudulence in Central Bank",
+            "short_title" : "LABOUR LAW",
+            "category" : "Industrial Issue",
+            "advocate" : "James Cameron",
+            "start_date" : "15 June 2021",
+            "end_date" : "03 January 2022",
+            "address" : "San Fransisco",
+            "short_description" : "There are many new variations of available but majority.",
+            "description" : "Fraud and financial crimes are a form of theft/larceny that occur when a person or entity takes money or property, or uses them in an illicit manner, with the intent.The analysis model employed in this study is multiple regression. The results indicate that variable namely, pressure, opportunity, rationalization, competence, and arrogance, simultaneously do not affect fraudulence financial statement.",
+            "overview" : "Cases of fraud were found in Indonesia in 2017 involving PT Jatisari Sri Rejeki. The company is cheating by producing rice that is not suitable with standard quality stated in the packaging label. The correlation of the case against fraudulent financial statements is that there is a difference in the inventory account contained in the financial statements due to changes in the quality of products made by the company.",
+            "tags" : {
+                "tag_1" : "civil",
+                "tag_2" : "criminal"
+            },
+            "images" : {
+                "bg_image" : "/assets/img/case/04.jpg",
+                "banner_image" : "/assets/img/case/single-case.jpg",
+                "image_1" : "/assets/img/case/single-case-2.jpg",
+                "image_2" : "/assets/img/case/single-case-3.jpg"
+            }
+
+        },
+
+        {
+            "id" : "5",
+            "title" : "Financial Fraudulence in Central Bank",
+            "short_title" : "Mental Tourcher",
+            "category" : "HUMAN RIGHTS",
+            "advocate" : "James Cameron",
+            "start_date" : "15 June 2021",
+            "end_date" : "03 January 2022",
+            "address" : "San Fransisco",
+            "short_description" : "There are many new variations of available but majority.",
+            "description" : "Fraud and financial crimes are a form of theft/larceny that occur when a person or entity takes money or property, or uses them in an illicit manner, with the intent.The analysis model employed in this study is multiple regression. The results indicate that variable namely, pressure, opportunity, rationalization, competence, and arrogance, simultaneously do not affect fraudulence financial statement.",
+            "overview" : "Cases of fraud were found in Indonesia in 2017 involving PT Jatisari Sri Rejeki. The company is cheating by producing rice that is not suitable with standard quality stated in the packaging label. The correlation of the case against fraudulent financial statements is that there is a difference in the inventory account contained in the financial statements due to changes in the quality of products made by the company.",
+            "tags" : {
+                "tag_1" : "civil",
+                "tag_2" : "criminal"
+            },
+            "images" : {
+                "bg_image" : "/assets/img/case/05.jpg",
+                "banner_image" : "/assets/img/case/single-case.jpg",
+                "image_1" : "/assets/img/case/single-case-2.jpg",
+                "image_2" : "/assets/img/case/single-case-3.jpg"
+            }
+
+        },
+        
+        {
+            "id" : "6",
+            "title" : "Financial Fraudulence in Central Bank",
+            "short_title" : "Property Rights",
+            "category" : "CIVIL LAW",
+            "advocate" : "James Cameron",
+            "start_date" : "15 June 2021",
+            "end_date" : "03 January 2022",
+            "address" : "San Fransisco",
+            "short_description" : "There are many new variations of available but majority.",
+            "description" : "Fraud and financial crimes are a form of theft/larceny that occur when a person or entity takes money or property, or uses them in an illicit manner, with the intent.The analysis model employed in this study is multiple regression. The results indicate that variable namely, pressure, opportunity, rationalization, competence, and arrogance, simultaneously do not affect fraudulence financial statement.",
+            "overview" : "Cases of fraud were found in Indonesia in 2017 involving PT Jatisari Sri Rejeki. The company is cheating by producing rice that is not suitable with standard quality stated in the packaging label. The correlation of the case against fraudulent financial statements is that there is a difference in the inventory account contained in the financial statements due to changes in the quality of products made by the company.",
+            "tags" : {
+                "tag_1" : "civil",
+                "tag_2" : "criminal"
+            },
+            "images" : {
+                "bg_image" : "/assets/img/case/06.jpg",
+                "banner_image" : "/assets/img/case/single-case.jpg",
+                "image_1" : "/assets/img/case/single-case-2.jpg",
+                "image_2" : "/assets/img/case/single-case-3.jpg"
+            }
+
+        }
+    ]
+}

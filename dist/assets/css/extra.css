@@ -1,0 +1,200 @@
+.header-wrapper {
+  position: relative;
+  z-index: 999 !important;
+}
+.sticky-area-home4 {
+  background-color: #fff;
+}
+.header-inner-box {
+  display: block;
+  width: 200px;
+  position: absolute;
+  top: 0;
+  margin-top: 20px;
+  left: 20px;
+}
+#header-4 .header-inner-box img {
+  margin: 0;
+  filter: grayscale(0);
+}
+#header-4 .home4-nav-item {
+  margin-right: 17px;
+}
+#header-4 .home4-nav-item > a {
+  font-size: 16px;
+  font-family: "Rajdhani";
+  color: #2f3140;
+  font-weight: bold;
+  line-height: 1.625;
+  text-align: left;
+}
+
+#header-4 .home4-nav-item:hover a {
+  color: rgb(200, 157, 102);
+}
+
+.home4-search-button {
+  border: none;
+  border-radius: 50%;
+  background-color: white;
+  color: black;
+  padding: 1rem;
+  box-shadow: black 0px 20px 30px -15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.contact-wrapper {
+  margin-right: 10px;
+  margin-left: 25px;
+}
+.home4-get-in-touch {
+  font-size: 16px;
+  font-family: "Rajdhani";
+  color: rgb(79, 79, 103);
+  font-weight: bold;
+  line-height: 1.625;
+  text-align: left;
+}
+
+.home4-get-number {
+  font-size: 24px;
+  font-family: "Rajdhani";
+  color: rgb(47, 49, 64);
+  font-weight: bold;
+  line-height: 1.25;
+}
+.contact_consult,
+.home5_contact {
+  text-align: center;
+  border: none;
+  background-color: rgb(47, 49, 64);
+  width: 145px;
+  overflow: hidden;
+}
+.home5_contact {
+  height: fit-content;
+  border-radius: 2rem;
+  background-color: rgb(200, 157, 102);
+  margin-right: 15px;
+}
+
+.contact_consult a,
+.home5_contact a {
+  color: #fff;
+  font-size: 16px;
+  font-family: "Rajdhani";
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.625;
+  margin: auto 0;
+  padding: 15px 0;
+}
+@media screen and (min-width: 1172px) {
+  .header-inner-box {
+    left: 45px;
+  }
+}
+.sub_options {
+  height: 88%;
+}
+.home5_search_button {
+  background-color: white;
+  color: black;
+  padding: 1rem;
+  cursor: pointer;
+  margin: 0 6px;
+}
+
+.contact_wrapper_five {
+  margin: auto 25px;
+}
+
+.home5-get-number {
+  font-size: 24px;
+  font-family: "Rajdhani";
+  color: rgb(47, 49, 64);
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+.banner4-next-button-1 {
+  background-image: linear-gradient(#fff0 0%, #000 130%),
+    url("/assets/img/home4/hero_get_in_touch.png");
+}
+
+.banner4-next-button-2 {
+  background-image: linear-gradient(#fff0 0%, #000 130%),
+    url("/assets/img/home4/bannerBGpng.png");
+}
+
+.get-started-bg::before {
+  content: "";
+  position: absolute;
+  background-image: url("/assets/img/home4/hero_get_in_touch.png");
+  background-repeat: none;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100%;
+  filter: brightness(35%);
+}
+
+.practice-area-bg-home4 {
+  background-image: url("/assets/img/home4/what_we_do/practice_area_bg.png");
+  background-position: top;
+  background-repeat: no-repeat;
+  min-height: 755px;
+}
+
+.we-business-bg::before {
+  content: "";
+  position: absolute;
+  background-image: url("/assets/img/home4/hero_we_are_here_bg.png");
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+.footer5-bg {
+  min-height: 300px;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  clip-path: polygon(0 0, 100% 20%, 100% 100%, 0 100%);
+  background-color: rgb(10, 15, 24);
+  background-color: #191e25;
+  background-image: url("/assets/img/home5/footer/footer-bg-5.png");
+}
+
+.case-studies-bg {
+  background-image: url("/assets/img/home5/case_studies/case_studies_bg.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #111419;
+  min-height: 785px;
+}
+
+.practice-area-bg::before {
+  content: "";
+  position: absolute;
+  background-color: #f7f2ec;
+  background-image: url("/assets/img/home5/practice_areas/bg.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  min-height: 1380px;
+  z-index: -1;
+}
+.testimonial5-bg::before {
+  content: "";
+  position: absolute;
+  background-image: url("/assets/img/home5/testimonials/testimonial_bg.png");
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  min-height: 766px;
+  z-index: -1;
+}

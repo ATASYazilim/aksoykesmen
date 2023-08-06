@@ -1,0 +1,26 @@
+[
+	{
+		"id": "0",
+		"count": "3000",
+		"unit": "+",
+		"description": "LAWYERS ACROSS OUR GLOBAL PLATFORM"
+	},
+	{
+		"id": "1",
+		"count": "65",
+		"unit": "+",
+		"description": "NUMBER OF NATIVE SPEAKERS LANGUAGES SPOKEN"
+	},
+	{
+		"id": "2",
+		"count": "235",
+		"unit": "k",
+		"description": "ENCOURAGES LAWYERS TO ENGAGE IN AT LEAST 50 HOURS"
+	},
+	{
+		"id": "3",
+		"count": "14",
+		"unit": "%",
+		"description": "COUNTRIES IN WHICH THE FIRM IS LOCATED"
+	}
+]

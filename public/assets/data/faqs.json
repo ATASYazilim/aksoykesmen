@@ -1,0 +1,50 @@
+{
+    "faqs" : [
+        {
+            "id" : "1", 
+            "question" : " What is solar energy?",
+            "answer" : "Solar energy is the radiation from the Sun capable of producing heat, causing chemical reactions, or generating electricity."
+        },
+        {
+            "id" : "2", 
+            "question" : "Why solar energy is important?",
+            "answer" : "Solar energy does not generate waste or contaminate water—an extremely important factor given the scarcity of water."
+        },
+        {
+            "id" : "3", 
+            "question" : "How solar energy is produced?",
+            "answer" : "Solar energy is created by nuclear fusion that takes place in the sun. Fusion occurs when protons of hydrogen atoms violently collide in the sun's core and fuse to create a helium atom."
+        },
+        {
+            "id" : "4", 
+            "question" : " What are the types of solar energy?",
+            "answer" : "1. Solar thermal technology, which captures the sun's heat. \n 2. Photovoltaic solar technology, which directly converts sunlight into electricity. using panels made of semiconductor cells."
+        },
+        {
+            "id" : "5", 
+            "question" : " How is solar energy stored?",
+            "answer" : "Today, most solar energy is stored in lithium-ion, lead-acid, and flow batteries."
+        },
+        {
+            "id" : "6", 
+            "question" : " Can solar energy be destroyed?",
+            "answer" : "We say that energy is conserved: you can convert energy from one form to another, but it cannot be created or destroyed."
+        },
+        {
+            "id" : "7", 
+            "question" : "Does solar energy work at night?",
+            "answer" : "No, solar energy systems only operate during the day."
+        },
+        {
+            "id" : "8", 
+            "question" : "Can solar system run 24 hours?",
+            "answer" : "Solar panels work hard all day producing electricity from the sun. They also support sustainable solar energy solutions at night."
+        },
+        {
+            "id" : "9", 
+            "question" : " How does solar work without a battery?",
+            "answer" : "Solar panels work by turning sunlight into electricity during daylight hours."
+        }
+
+    ]
+}

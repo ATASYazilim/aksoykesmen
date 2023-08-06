@@ -1,0 +1,24 @@
+{
+	"faqs": [
+		{
+			"id": "0",
+			"question": "What payment methods exist in your company?",
+			"answer": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat nons proident, sunt in culpa qui officia deserunt"
+		},
+		{
+			"id": "1",
+			"question": "Can I return the product after purchase?",
+			"answer": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat nons proident, sunt in culpa qui officia deserunt"
+		},
+		{
+			"id": "2",
+			"question": "What payment methods exist in your company?",
+			"answer": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat nons proident, sunt in culpa qui officia deserunt"
+		},
+		{
+			"id": "3",
+			"question": "What payment methods exist in your company?",
+			"answer": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat nons proident, sunt in culpa qui officia deserunt"
+		}
+	]
+}

@@ -1,0 +1,30 @@
+[
+	{
+		"id": 0,
+		"practice_area": "Bussiness Law",
+		"card_img_url": "/assets/img/home4/what_we_do/wwd_card_1.png",
+		"card_icon_url": "/assets/img/home4/what_we_do/wwd_card_icon_1.png",
+		"description": "Many desktop packages and web page editors now use Ipsum their default model text, "
+	},
+	{
+		"id": 1,
+		"practice_area": "Family Law",
+		"card_img_url": "/assets/img/home4/what_we_do/wwd_card_2.png",
+		"card_icon_url": "/assets/img/home4/what_we_do/wwd_card_icon_2.png",
+		"description": "Many desktop packages and web page editors now use Ipsum their default model text, "
+	},
+	{
+		"id": 2,
+		"practice_area": "Criminal Law",
+		"card_img_url": "/assets/img/home4/what_we_do/wwd_card_3.png",
+		"card_icon_url": "/assets/img/home4/what_we_do/wwd_card_icon_3.png",
+		"description": "Many desktop packages and web page editors now use Ipsum their default model text, "
+	},
+	{
+		"id": 3,
+		"practice_area": "Real State Law",
+		"card_img_url": "/assets/img/home4/what_we_do/wwd_card_4.png",
+		"card_icon_url": "/assets/img/home4/what_we_do/wwd_card_icon_4.png",
+		"description": "Many desktop packages and web page editors now use Ipsum their default model text, "
+	}
+]

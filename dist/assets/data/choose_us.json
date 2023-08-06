@@ -1,0 +1,77 @@
+{
+    "choose_us" : {
+        "feature_image" : "/assets/img/feature.jpg",
+        "reasons" : [
+            {
+                "id" : "1",
+                "title" : "Qualified Attorneys",
+                "icon" : "flaticon-lawyer",
+                "short_description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta et doloribus!"
+            },
+            {
+                "id" : "2",
+                "title" : "Short Time Result",
+                "icon" : "flaticon-law",
+                "short_description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta et doloribus!"
+            },
+            {
+                "id" : "3",
+                "title" : "90% Success Rate",
+                "icon" : "flaticon-podium",
+                "short_description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta et doloribus!"
+            }
+        ],
+        "key_features" : [
+            {
+                "id" : "1",
+                "icon" : "/assets/img/icon/lawyer.png",
+                "title" : "Qualified Attorneys",
+                "short_description" : "We help you find a architect by offering interior experience"
+            },
+            {
+                "id" : "2",
+                "icon" : "/assets/img/icon/courthouse.png",
+                "title" : "All Time Support",
+                "short_description" : "We help you find a architect by offering interior experience"
+            },
+            {
+                "id" : "3",
+                "icon" : "/assets/img/icon/balance.png",
+                "title" : "Resonable Pricing",
+                "short_description" : "We help you find a architect by offering interior experience"
+            },
+            {
+                "id" : "4",
+                "icon" : "/assets/img/icon/podium.png",
+                "title" : "Highest Success Rate",
+                "short_description" : "We help you find a architect by offering interior experience"
+            }
+        ],
+        "processes" : [
+            {
+                "id" : "1",
+                "icon" : "/assets/img/icon/law-book.png",
+                "title" : "Study & Research",
+                "short_description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            },
+            {
+                "id" : "2",
+                "icon" : "/assets/img/icon/contract.png",
+                "title" : "Date Collection",
+                "short_description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            },
+            {
+                "id" : "3",
+                "icon" : "/assets/img/icon/lawyer-2.png",
+                "title" : "Fight in the Court",
+                "short_description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            },
+            {
+                "id" : "4",
+                "icon" : "/assets/img/icon/podium-2.png",
+                "title" : "Bring Back the Win",
+                "short_description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            }
+        ]
+    }
+}

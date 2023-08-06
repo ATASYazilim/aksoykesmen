@@ -1,0 +1,186 @@
+{
+    "services" : [
+        {
+            "id" : "1",
+            "icon" : "flaticon-international-business",
+            "name" : "Business Law",
+            "short_description" : "There are some reason build the site lorem ipsum dolor sit amet.",
+            "full_description" : "Family Law is common legal procedure lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga sunt necessitatibus, fugit, nesciunt adipisci, exercitationem accusamus possimus repellendus praesentium deleniti explicabo laborum. Voluptates ipsa dignissimos blanditiis quibusdam temporibus cupiditate tempore atque illum sed? Doloribus recusandae pariatur architecto quisquam magni ipsam sapiente adipisci iusto odio eaque, hic repellat quis expedita perferendis? A quick brwon fox jumps over the lazy dog. Great Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt molestias, dolores maiores est temporibus iste aut, vitae dolorem a nisi, autem eum totam neque quibusdam!",
+            "sub_heading_1" : "Transforming brands with creativity",
+            "sub_description_1" : "Such a game Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia vero ipsam nemo natus, mollitia adipisci sit eveniet non? Nisi doloremque molestiae amet quaerat ipsa maiores dolor deleniti blanditiis pariatur necessitatibus sit nemo, unde nihil eligendi soluta id eum dicta quisquam? a quick brown fox jumps over the lazy dog.",
+            "sub_heading_2" : "Family Legal Service Priorities",
+            "sub_description_2" : "Family services compile several services for the delivery of portable goods, documents, and mail. As there is a wide range of products involved and each customer has different needs, courier companies offer several types of courier services. When planning to trust courier services to ship your goods, it is always a good idea to choose the service that meets your expectations. There are several services to choose from, and your choice should be based on several factors: Express Courier Link is highly professional skilled & reliable Courier Service Provider Company which has been classified for courier delivery service for delivery.",
+            "features" : [
+                {
+                    "id" : "1",
+                    "title" : "We Committed in Law",
+                    "icon" : "/assets/img/icon/gavel.png",
+                    "description" : "knowledge of law rules better than anyone"
+                },
+
+                {
+                    "id" : "2",
+                    "title" : "We Fight for Justice",
+                    "icon" : "/assets/img/icon/balance.png",
+                    "description" : "knowledge of law rules better than anyone"
+                }
+            ],
+            "images" : {
+                "banner_image" : "/assets/img/service/business_law.jpg",
+                "sub_image_1" : "/assets/img/service/service-bg-1.jpg",
+                "sub_image_2" : "/assets/img/service/service-bg-2.jpg"
+            }
+        },
+
+        {
+            "id" : "2",
+            "icon" : "flaticon-family",
+            "name" : "Family Law",
+            "short_description" : "There are some reason build the site lorem ipsum dolor sit amet.",
+            "full_description" : "Family Law is common legal procedure lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga sunt necessitatibus, fugit, nesciunt adipisci, exercitationem accusamus possimus repellendus praesentium deleniti explicabo laborum. Voluptates ipsa dignissimos blanditiis quibusdam temporibus cupiditate tempore atque illum sed? Doloribus recusandae pariatur architecto quisquam magni ipsam sapiente adipisci iusto odio eaque, hic repellat quis expedita perferendis? A quick brwon fox jumps over the lazy dog. Great Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt molestias, dolores maiores est temporibus iste aut, vitae dolorem a nisi, autem eum totam neque quibusdam!",
+            "sub_heading_1" : "Transforming brands with creativity",
+            "sub_description_1" : "Such a game Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia vero ipsam nemo natus, mollitia adipisci sit eveniet non? Nisi doloremque molestiae amet quaerat ipsa maiores dolor deleniti blanditiis pariatur necessitatibus sit nemo, unde nihil eligendi soluta id eum dicta quisquam? a quick brown fox jumps over the lazy dog.",
+            "sub_heading_2" : "Family Legal Service Priorities",
+            "sub_description_2" : "Family services compile several services for the delivery of portable goods, documents, and mail. As there is a wide range of products involved and each customer has different needs, courier companies offer several types of courier services. When planning to trust courier services to ship your goods, it is always a good idea to choose the service that meets your expectations. There are several services to choose from, and your choice should be based on several factors: Express Courier Link is highly professional skilled & reliable Courier Service Provider Company which has been classified for courier delivery service for delivery.",
+            "features" : [
+                {
+                    "title" : "We Committed in Law",
+                    "icon" : "/assets/img/icon/gavel.png",
+                    "description" : "knowledge of law rules better than anyone"
+                },
+
+                {
+                    "title" : "We Fight for Justice",
+                    "icon" : "/assets/img/icon/balance.png",
+                    "description" : "knowledge of law rules better than anyone"
+                }
+            ],
+            "images" : {
+                "banner_image" : "/assets/img/service/family_law.jpg",
+                "sub_image_1" : "/assets/img/service/service-bg-1.jpg",
+                "sub_image_2" : "/assets/img/service/service-bg-2.jpg"
+            }
+        },
+
+        {
+            "id" : "3",
+            "icon" : "flaticon-balance",
+            "name" : "Criminal Law",
+            "short_description" : "There are some reason build the site lorem ipsum dolor sit amet.",
+            "full_description" : "Family Law is common legal procedure lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga sunt necessitatibus, fugit, nesciunt adipisci, exercitationem accusamus possimus repellendus praesentium deleniti explicabo laborum. Voluptates ipsa dignissimos blanditiis quibusdam temporibus cupiditate tempore atque illum sed? Doloribus recusandae pariatur architecto quisquam magni ipsam sapiente adipisci iusto odio eaque, hic repellat quis expedita perferendis? A quick brwon fox jumps over the lazy dog. Great Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt molestias, dolores maiores est temporibus iste aut, vitae dolorem a nisi, autem eum totam neque quibusdam!",
+            "sub_heading_1" : "Transforming brands with creativity",
+            "sub_description_1" : "Such a game Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia vero ipsam nemo natus, mollitia adipisci sit eveniet non? Nisi doloremque molestiae amet quaerat ipsa maiores dolor deleniti blanditiis pariatur necessitatibus sit nemo, unde nihil eligendi soluta id eum dicta quisquam? a quick brown fox jumps over the lazy dog.",
+            "sub_heading_2" : "Family Legal Service Priorities",
+            "sub_description_2" : "Family services compile several services for the delivery of portable goods, documents, and mail. As there is a wide range of products involved and each customer has different needs, courier companies offer several types of courier services. When planning to trust courier services to ship your goods, it is always a good idea to choose the service that meets your expectations. There are several services to choose from, and your choice should be based on several factors: Express Courier Link is highly professional skilled & reliable Courier Service Provider Company which has been classified for courier delivery service for delivery.",
+            "features" : [
+                {
+                    "title" : "We Committed in Law",
+                    "icon" : "/assets/img/icon/gavel.png",
+                    "description" : "knowledge of law rules better than anyone"
+                },
+
+                {
+                    "title" : "We Fight for Justice",
+                    "icon" : "/assets/img/icon/balance.png",
+                    "description" : "knowledge of law rules better than anyone"
+                }
+            ],
+            "images" : {
+                "banner_image" : "/assets/img/service/criminal_law.jpg",
+                "sub_image_1" : "/assets/img/service/service-bg-1.jpg",
+                "sub_image_2" : "/assets/img/service/service-bg-2.jpg"
+            }
+        },
+
+        {
+            "id" : "4",
+            "icon" : "flaticon-contract",
+            "name" : "Real Estate Law",
+            "short_description" : "There are some reason build the site lorem ipsum dolor sit amet.",
+            "full_description" : "Family Law is common legal procedure lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga sunt necessitatibus, fugit, nesciunt adipisci, exercitationem accusamus possimus repellendus praesentium deleniti explicabo laborum. Voluptates ipsa dignissimos blanditiis quibusdam temporibus cupiditate tempore atque illum sed? Doloribus recusandae pariatur architecto quisquam magni ipsam sapiente adipisci iusto odio eaque, hic repellat quis expedita perferendis? A quick brwon fox jumps over the lazy dog. Great Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt molestias, dolores maiores est temporibus iste aut, vitae dolorem a nisi, autem eum totam neque quibusdam!",
+            "sub_heading_1" : "Transforming brands with creativity",
+            "sub_description_1" : "Such a game Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia vero ipsam nemo natus, mollitia adipisci sit eveniet non? Nisi doloremque molestiae amet quaerat ipsa maiores dolor deleniti blanditiis pariatur necessitatibus sit nemo, unde nihil eligendi soluta id eum dicta quisquam? a quick brown fox jumps over the lazy dog.",
+            "sub_heading_2" : "Family Legal Service Priorities",
+            "sub_description_2" : "Family services compile several services for the delivery of portable goods, documents, and mail. As there is a wide range of products involved and each customer has different needs, courier companies offer several types of courier services. When planning to trust courier services to ship your goods, it is always a good idea to choose the service that meets your expectations. There are several services to choose from, and your choice should be based on several factors: Express Courier Link is highly professional skilled & reliable Courier Service Provider Company which has been classified for courier delivery service for delivery.",
+            "features" : [
+                {
+                    "title" : "We Committed in Law",
+                    "icon" : "/assets/img/icon/gavel.png",
+                    "description" : "knowledge of law rules better than anyone"
+                },
+
+                {
+                    "title" : "We Fight for Justice",
+                    "icon" : "/assets/img/icon/balance.png",
+                    "description" : "knowledge of law rules better than anyone"
+                }
+            ],
+            "images" : {
+                "banner_image" : "/assets/img/service/realestate_law.jpg",
+                "sub_image_1" : "/assets/img/service/service-bg-1.jpg",
+                "sub_image_2" : "/assets/img/service/service-bg-2.jpg"
+            }
+        },
+
+        {
+            "id" : "5",
+            "icon" : "flaticon-certificate",
+            "name" : "Civil Law",
+            "short_description" : "There are some reason build the site lorem ipsum dolor sit amet.",
+            "full_description" : "Family Law is common legal procedure lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga sunt necessitatibus, fugit, nesciunt adipisci, exercitationem accusamus possimus repellendus praesentium deleniti explicabo laborum. Voluptates ipsa dignissimos blanditiis quibusdam temporibus cupiditate tempore atque illum sed? Doloribus recusandae pariatur architecto quisquam magni ipsam sapiente adipisci iusto odio eaque, hic repellat quis expedita perferendis? A quick brwon fox jumps over the lazy dog. Great Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt molestias, dolores maiores est temporibus iste aut, vitae dolorem a nisi, autem eum totam neque quibusdam!",
+            "sub_heading_1" : "Transforming brands with creativity",
+            "sub_description_1" : "Such a game Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia vero ipsam nemo natus, mollitia adipisci sit eveniet non? Nisi doloremque molestiae amet quaerat ipsa maiores dolor deleniti blanditiis pariatur necessitatibus sit nemo, unde nihil eligendi soluta id eum dicta quisquam? a quick brown fox jumps over the lazy dog.",
+            "sub_heading_2" : "Family Legal Service Priorities",
+            "sub_description_2" : "Family services compile several services for the delivery of portable goods, documents, and mail. As there is a wide range of products involved and each customer has different needs, courier companies offer several types of courier services. When planning to trust courier services to ship your goods, it is always a good idea to choose the service that meets your expectations. There are several services to choose from, and your choice should be based on several factors: Express Courier Link is highly professional skilled & reliable Courier Service Provider Company which has been classified for courier delivery service for delivery.",
+            "features" : [
+                {
+                    "title" : "We Committed in Law",
+                    "icon" : "/assets/img/icon/gavel.png",
+                    "description" : "knowledge of law rules better than anyone"
+                },
+
+                {
+                    "title" : "We Fight for Justice",
+                    "icon" : "/assets/img/icon/balance.png",
+                    "description" : "knowledge of law rules better than anyone"
+                }
+            ],
+            "images" : {
+                "banner_image" : "/assets/img/service/civil_law.jpg",
+                "sub_image_1" : "/assets/img/service/service-bg-1.jpg",
+                "sub_image_2" : "/assets/img/service/service-bg-2.jpg"
+            }
+        },
+        
+        {
+            "id" : "6",
+            "icon" : "flaticon-hammer",
+            "name" : "Labour Law",
+            "short_description" : "There are some reason build the site lorem ipsum dolor sit amet.",
+            "full_description" : "Family Law is common legal procedure lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga sunt necessitatibus, fugit, nesciunt adipisci, exercitationem accusamus possimus repellendus praesentium deleniti explicabo laborum. Voluptates ipsa dignissimos blanditiis quibusdam temporibus cupiditate tempore atque illum sed? Doloribus recusandae pariatur architecto quisquam magni ipsam sapiente adipisci iusto odio eaque, hic repellat quis expedita perferendis? A quick brwon fox jumps over the lazy dog. Great Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt molestias, dolores maiores est temporibus iste aut, vitae dolorem a nisi, autem eum totam neque quibusdam!",
+            "sub_heading_1" : "Transforming brands with creativity",
+            "sub_description_1" : "Such a game Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia vero ipsam nemo natus, mollitia adipisci sit eveniet non? Nisi doloremque molestiae amet quaerat ipsa maiores dolor deleniti blanditiis pariatur necessitatibus sit nemo, unde nihil eligendi soluta id eum dicta quisquam? a quick brown fox jumps over the lazy dog.",
+            "sub_heading_2" : "Family Legal Service Priorities",
+            "sub_description_2" : "Family services compile several services for the delivery of portable goods, documents, and mail. As there is a wide range of products involved and each customer has different needs, courier companies offer several types of courier services. When planning to trust courier services to ship your goods, it is always a good idea to choose the service that meets your expectations. There are several services to choose from, and your choice should be based on several factors: Express Courier Link is highly professional skilled & reliable Courier Service Provider Company which has been classified for courier delivery service for delivery.",
+            "features" : [
+                {
+                    "title" : "We Committed in Law",
+                    "icon" : "/assets/img/icon/gavel.png",
+                    "description" : "knowledge of law rules better than anyone"
+                },
+
+                {
+                    "title" : "We Fight for Justice",
+                    "icon" : "/assets/img/icon/balance.png",
+                    "description" : "knowledge of law rules better than anyone"
+                }
+            ],
+            "images" : {
+                "banner_image" : "/assets/img/service/labour_law.jpg",
+                "sub_image_1" : "/assets/img/service/service-bg-1.jpg",
+                "sub_image_2" : "/assets/img/service/service-bg-2.jpg"
+            }
+        }
+       
+    ]
+}

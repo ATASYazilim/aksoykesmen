@@ -1,0 +1,119 @@
+{
+    "blogs" : [
+        {
+            "id" : "1",
+            "title" : "Marijuana With a Side of Investor Fraud",
+            "short_description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat quasi, adipisci, accusantium optio obcaecati autem eligendi, nesciunt inventore vero similique labore veniam. Commodi repudiandae eveniet alias consequatur, velit. Earum optio modi, et quasi repellendus sequi dolorum magni.",
+            "full_content" : "Encouraging kids to socialize has never been more important, but finding ways to do it safely right now can be tricky. Thankfully, you don’t have to put your child’s social life on pause. Instead, coordinate a time to do a virtual playdate on Zoom or Google Hangouts with one or a few of your child’s friends. Education.com has over 34,000 resources to choose from! Visit the Learning Library and use the search bar at the top of the page to find your topic.\n\n You can filter results by your learners’ grade level, subjects you’re interested in, type of resource, and more in the bars along the top and left-hand side of the page. Look through the resources on your topic, and select the one that seems most relevant to your lesson as well as most engaging for your learners. For example, our search for plants provided over 600 resources including activities, worksheets, and lesson plans. By filtering to show first grade science resources, and sorting by relevance, we narrowed down the search until we selected the Parts of a Plant workbook.",
+            "author" : "Admin",
+            "date" : "August 10, 2019",
+            "sub_title_1" : "How to create a well-rounded learning routine",
+            "sub_title_1_content" : "When children engage with the same concept in different ways, it strengthens their understanding of the topic. But as educators and caregivers, it can be difficult to find a range of high-quality content to share with your little learners. The good news is that both Education.com and IXL have extensive libraries of resources and skills that you can depend on for PK-5 and beyond.",
+            "sub_title_2" : "Give An Inch, Take A Mile",
+            "sub_title_2_content" : "One day, the importer called the customer service representative and said that he could not arrive at the office to surrender the bill of lading that day. Instead he would fax (yes that long ago) the front and back of the bill to get the release, and subsequently be in the office the very next day to deliver the original bill of lading as required. The carrier acted in accordance and the importer was in the office the next day to deliver the bill of lading as promised.",
+            "images" : {
+                "banner_image" : "/assets/img/blog/1.jpg",
+                "image_1" : "/assets/img/blog/3.jpg",
+                "image_2" : "/assets/img/blog/4.jpg"
+            },
+            "comments" : [
+                {
+                    "id" : "1",
+                    "author_name" : "Rasel Arnold",
+                    "author_image" : "/assets/img/client-img-2.jpg",
+                    "content" : "Though author order shouldn't matter, industry custom and practical limitations say otherwise.",
+                    "date" : "November 29, 2019"
+
+                },
+
+                {
+                    "id" : "2",
+                    "author_name" : "Ryans Joseph",
+                    "author_image" : "/assets/img/client-img-3.jpg",
+                    "content" : "Though author order shouldn't matter, industry custom and practical limitations say otherwise.",
+                    "date" : "November 29, 2019"
+
+                }
+                
+            ],
+            "likes" : "20"
+        },
+
+        {
+            "id" : "2",
+            "title" : "Man Accused of Swindling Oil Investors Pleads Guilty",
+            "short_description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat quasi, adipisci, accusantium optio obcaecati autem eligendi, nesciunt inventore vero similique labore veniam. Commodi repudiandae eveniet alias consequatur, velit. Earum optio modi, et quasi repellendus sequi dolorum magni.",
+            "full_content" : "Encouraging kids to socialize has never been more important, but finding ways to do it safely right now can be tricky. Thankfully, you don’t have to put your child’s social life on pause. Instead, coordinate a time to do a virtual playdate on Zoom or Google Hangouts with one or a few of your child’s friends. Education.com has over 34,000 resources to choose from! Visit the Learning Library and use the search bar at the top of the page to find your topic. You can filter results by your learners’ grade level, subjects you’re interested in, type of resource, and more in the bars along the top and left-hand side of the page. Look through the resources on your topic, and select the one that seems most relevant to your lesson as well as most engaging for your learners. For example, our search for plants provided over 600 resources including activities, worksheets, and lesson plans. By filtering to show first grade science resources, and sorting by relevance, we narrowed down the search until we selected the Parts of a Plant workbook.",
+            "author" : "Admin",
+            "date" : "August 10, 2019",
+            "sub_title_1" : "How to create a well-rounded learning routine",
+            "sub_title_1_content" : "When children engage with the same concept in different ways, it strengthens their understanding of the topic. But as educators and caregivers, it can be difficult to find a range of high-quality content to share with your little learners. The good news is that both Education.com and IXL have extensive libraries of resources and skills that you can depend on for PK-5 and beyond.",
+            "sub_title_2" : "Give An Inch, Take A Mile",
+            "sub_title_2_content" : "One day, the importer called the customer service representative and said that he could not arrive at the office to surrender the bill of lading that day. Instead he would fax (yes that long ago) the front and back of the bill to get the release, and subsequently be in the office the very next day to deliver the original bill of lading as required. The carrier acted in accordance and the importer was in the office the next day to deliver the bill of lading as promised.",
+            "images" : {
+                "banner_image" : "/assets/img/blog/2.jpg",
+                "image_1" : "/assets/img/blog/3.jpg",
+                "image_2" : "/assets/img/blog/4.jpg"
+            },
+            "comments" : [
+                {
+                    "id" : "1",
+                    "name" : "Rasel Arnold",
+                    "image" : "/assets/img/client-img-2.jpg",
+                    "content" : "Though author order shouldn't matter, industry custom and practical limitations say otherwise.",
+                    "date" : "November 29, 2019"
+
+                },
+
+                {
+                    "id" : "2",
+                    "name" : "Ryans Joseph",
+                    "image" : "/assets/img/client-img-3.jpg",
+                    "content" : "Though author order shouldn't matter, industry custom and practical limitations say otherwise.",
+                    "date" : "November 29, 2019"
+
+                }
+                
+            ],
+            "likes" : "20"
+        },
+        {
+            "id" : "3",
+            "title" : "Investors Pay Criminals Again and Again",
+            "short_description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat quasi, adipisci, accusantium optio obcaecati autem eligendi, nesciunt inventore vero similique labore veniam. Commodi repudiandae eveniet alias consequatur, velit. Earum optio modi, et quasi repellendus sequi dolorum magni.",
+            "full_content" : "Encouraging kids to socialize has never been more important, but finding ways to do it safely right now can be tricky. Thankfully, you don’t have to put your child’s social life on pause. Instead, coordinate a time to do a virtual playdate on Zoom or Google Hangouts with one or a few of your child’s friends. Education.com has over 34,000 resources to choose from! Visit the Learning Library and use the search bar at the top of the page to find your topic. You can filter results by your learners’ grade level, subjects you’re interested in, type of resource, and more in the bars along the top and left-hand side of the page. Look through the resources on your topic, and select the one that seems most relevant to your lesson as well as most engaging for your learners. For example, our search for plants provided over 600 resources including activities, worksheets, and lesson plans. By filtering to show first grade science resources, and sorting by relevance, we narrowed down the search until we selected the Parts of a Plant workbook.",
+            "author" : "Admin",
+            "date" : "August 10, 2019",
+            "sub_title_1" : "How to create a well-rounded learning routine",
+            "sub_title_1_content" : "When children engage with the same concept in different ways, it strengthens their understanding of the topic. But as educators and caregivers, it can be difficult to find a range of high-quality content to share with your little learners. The good news is that both Education.com and IXL have extensive libraries of resources and skills that you can depend on for PK-5 and beyond.",
+            "sub_title_2" : "Give An Inch, Take A Mile",
+            "sub_title_2_content" : "One day, the importer called the customer service representative and said that he could not arrive at the office to surrender the bill of lading that day. Instead he would fax (yes that long ago) the front and back of the bill to get the release, and subsequently be in the office the very next day to deliver the original bill of lading as required. The carrier acted in accordance and the importer was in the office the next day to deliver the bill of lading as promised.",
+            "images" : {
+                "banner_image" : "/assets/img/blog/3.jpg",
+                "image_1" : "/assets/img/blog/3.jpg",
+                "image_2" : "/assets/img/blog/4.jpg"
+            },
+            "comments" : [
+                {
+                    "id" : "1",
+                    "name" : "Rasel Arnold",
+                    "image" : "/assets/img/client-img-2.jpg",
+                    "content" : "Though author order shouldn't matter, industry custom and practical limitations say otherwise.",
+                    "date" : "November 29, 2019"
+
+                },
+
+                {
+                    "id" : "2",
+                    "name" : "Ryans Joseph",
+                    "image" : "/assets/img/client-img-3.jpg",
+                    "content" : "Though author order shouldn't matter, industry custom and practical limitations say otherwise.",
+                    "date" : "November 29, 2019"
+
+                }
+                
+            ],
+            "likes" : "20"
+        }
+    ]
+}

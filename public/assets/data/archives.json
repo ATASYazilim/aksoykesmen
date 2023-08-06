@@ -1,0 +1,29 @@
+{
+    "archives" : [
+        {
+            "id" : "1",
+            "name" : "Education Law",
+            "count" : "25"
+        },
+        {
+            "id" : "2",
+            "name" : "Real Estate Law",
+            "count" : "18"
+        },
+        {
+            "id" : "3",
+            "name" : "Labour Law",
+            "count" : "32"
+        },
+        {
+            "id" : "4",
+            "name" : "Civil Law",
+            "count" : "13"
+        },
+        {
+            "id" : "5",
+            "name" : "Criminal Law",
+            "count" : "04"
+        }
+    ]
+}

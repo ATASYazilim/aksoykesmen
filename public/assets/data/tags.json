@@ -1,0 +1,28 @@
+{
+    "tags":[
+        {
+            "id" : "1",
+            "name" : "Legal"
+        },
+        {
+            "id" : "2",
+            "name" : "Hearing"
+        },
+        {
+            "id" : "3",
+            "name" : "Witness"
+        },
+        {
+            "id" : "4",
+            "name" : "High Court"
+        },
+        {
+            "id" : "5",
+            "name" : "Attorney"
+        },
+        {
+            "id" : "6",
+            "name" : "Advocate"
+        }
+    ]
+}
